@@ -1,0 +1,1 @@
+mongodb+srv://damodar:<db_password>@shareit.1na7ae3.mongodb.net/?retryWrites=true&w=majority&appName=ShareIT
